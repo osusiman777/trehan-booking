@@ -1,1 +1,1 @@
-# trehan-booking
+# TreHan Booking
